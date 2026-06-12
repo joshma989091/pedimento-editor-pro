@@ -1,1 +1,1 @@
-main code
+FastAPI with CORS enabled

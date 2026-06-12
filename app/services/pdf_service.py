@@ -1,1 +1,1 @@
-pdf service full
+Full improved pdf_service with robust extraction and generate_clean_pedimento_pdf method

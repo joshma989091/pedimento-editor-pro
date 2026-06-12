@@ -1,1 +1,1 @@
-full README
+See full README in previous version or clone to see

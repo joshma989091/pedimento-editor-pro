@@ -1,1 +1,1 @@
-pdf router
+Router with new /generate-from-data endpoint
